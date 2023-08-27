@@ -61,7 +61,7 @@ footer{
 .message-hero-banner {
     text-size-adjust: 10rem;
     color: orangered;
-    border: solid 1px orangered;
+   /* border: solid 1px orangered;*/
     background-color: #fff;
 }
 
