@@ -91,7 +91,6 @@ footer{
 }
 .productos-title{
     text-align: center;
-
 }
 
 input {
@@ -112,7 +111,7 @@ button {
 }
 
 button:hover {
-    background-color: darkorange;
+    background-color: brown;
 }
 
 .container header {
